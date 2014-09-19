@@ -1,5 +1,4 @@
-[
-	{
+{
 		color: "red",
 		value: "#f00"
 	},
@@ -27,4 +26,3 @@
 		color: "black",
 		value: "#000"
 	}
-]
