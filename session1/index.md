@@ -84,3 +84,23 @@ mode        : selfcontained # {standalone, draft}
     + Context
     + Relevance
     + Communication
+
+---
+
+## Resources
+
+* R, Statistics
+    + Basics
+        + Coursera: www.coursera.org
+        + R Programming: https://www.coursera.org/course/rprog
+    + Advanced
+        + http://adv-r.had.co.nz/
+    
+    + R Studio: 
+    + 
+    
+* Visualization: 
+    + R Graphics Cookbook by Winston Chang
+    + rCharts
+    + www.flowingdata.com
+    + Tableau (free for UChicago students)
