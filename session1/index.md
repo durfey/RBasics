@@ -96,8 +96,7 @@ mode        : selfcontained # {standalone, draft}
     + Advanced
         + http://adv-r.had.co.nz/
     
-    + R Studio: 
-    + 
+    + R Studio: www.rstudio.com
     
 * Visualization: 
     + R Graphics Cookbook by Winston Chang
