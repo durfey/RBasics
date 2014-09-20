@@ -14,8 +14,9 @@ mode        : selfcontained # {standalone, draft}
 
 1. Installing and Loading Packages
 2. Reading Data into R - using *jsonlite* package
-3. Data Manipulation - using *dplyr* package
-4. Data Visualization - using *ggplot2* package
+3. Reshaping Data (Wide to Long format) - using *reshape2* package
+4. Data Manipulation - using *dplyr* package
+5. Data Visualization - using *ggplot2* package
 
 ---
 
